@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="26.1.2">
+  <diagram name="หน้า-1" id="OT8TdKyFwSiXQGdJgrgn">
+    <mxGraphModel dx="1290" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FoyYtJn_0hm5eXEqz5Gx-1" target="FoyYtJn_0hm5eXEqz5Gx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-1" value="จุดเริ่มต้น" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-4" value="ฝั่งผู้ใช้งาน" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-6" value="เข้ามายังหน้าเว็ป" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FoyYtJn_0hm5eXEqz5Gx-9" target="FoyYtJn_0hm5eXEqz5Gx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;รับค่า อาหารและ&lt;div&gt;การออกกำลังกาย&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.503;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FoyYtJn_0hm5eXEqz5Gx-6" target="FoyYtJn_0hm5eXEqz5Gx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-13" value="แสดงค่า แคลลอรี่" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=65;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FoyYtJn_0hm5eXEqz5Gx-9" target="FoyYtJn_0hm5eXEqz5Gx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-16" value="ฝั่งผู้ใช้งาน" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FoyYtJn_0hm5eXEqz5Gx-17" target="FoyYtJn_0hm5eXEqz5Gx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-17" value="เก็บค่าจากผู้ใช้" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="255" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-19" value="สามารถแก้ไขได้" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FoyYtJn_0hm5eXEqz5Gx-22" target="FoyYtJn_0hm5eXEqz5Gx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="485" />
+              <mxPoint x="120" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoyYtJn_0hm5eXEqz5Gx-22" target="FoyYtJn_0hm5eXEqz5Gx-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-22" value="จะลบข้อมูลที่ใส่ไปหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-24" value="จบ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="360" y="565" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-26" value="ใช่" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FoyYtJn_0hm5eXEqz5Gx-28" value="&lt;font color=&quot;#121212&quot;&gt;&lt;span style=&quot;background-color: rgb(211, 213, 214);&quot;&gt;ไม่&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="525" width="50" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
